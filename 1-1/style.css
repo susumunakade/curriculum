@@ -46,7 +46,7 @@ header{
     width: 250px;
     height: 100px;
     background-color: #8c2727;
-    margin-top: 150px
+    /* margin-top: 150px */
 }
 
 footer{
@@ -111,7 +111,7 @@ footer{
         width: 200px;
         height: 100px;
         background-color: #8c2727;
-        margin-top: 150px
+        /* margin-top: 150px */
     }
     
     footer{
@@ -176,7 +176,7 @@ footer{
         width: 150px;
         height: 100px;
         background-color: #8c2727;
-        margin-top: 150px
+        /* margin-top: 150px */
     }
     
     footer{
